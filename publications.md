@@ -1,3 +1,6 @@
+---
+title: "Publications"
+---
 # List of Publications
 by Artemiy Dmitriev
 
