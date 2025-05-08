@@ -1,3 +1,3 @@
-- [Publications \[html\]](./publications)\[[pdf](./list_of_publications.pdf)\]
-- [Cavity alignment by reinforcement learning: `calmly` \[repo\]](https://github.com/artemiy-dmitriev/calmly)\[[docs](https://calmly.readthedocs.io/latest/)\]
-- [`vectfit for Python`](https://github.com/artemiy-dmitriev/vectfit)
+- Publications: \[[html](./publications)\]\[[pdf](./list_of_publications.pdf)\]
+- `calmly`, cavity alignment using reinforcement learning: [\[repo\]](https://github.com/artemiy-dmitriev/calmly)\[[docs](https://calmly.readthedocs.io/latest/)\]
+- `vectfit` for Python: \[[repo](https://github.com/artemiy-dmitriev/vectfit)\]

@@ -108,3 +108,4 @@ by Artemiy Dmitriev
 **100.** **B. Abbott et al**. *Search for Subsolar-Mass Ultracompact Binaries in Advanced LIGO's First Observing Run*. Physical Review Letters, 2018 ([DOI](https://doi.org/10.1103/physrevlett.121.231103), [arXiv](https://arxiv.org/abs/1808.04771)).  
 **101.** **B. Abbott et al**. *GW170817: Measurements of Neutron Star Radii and Equation of State*. Physical Review Letters, 2018 ([DOI](https://doi.org/10.1103/physrevlett.121.161101), [arXiv](https://arxiv.org/abs/1805.11581)).  
 
+\[[Back to index](./index)\]
